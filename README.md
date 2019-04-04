@@ -1,12 +1,12 @@
 ## Must-read papers on Machine Reading Comprehension.
 
-Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haoze Ji. 
+Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe Ji. 
 
 
 ### Model Architecture
 
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
-2. **Teaching Machines to Read and Comprehend.** Hermann, Karl Moritz, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+2. **Teaching Machines to Read and Comprehend.** Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 3.  **Text Understanding with the Attention Sum Reader Network.** Rudolf Kadlec, Martin Schmid, Ondrej Bajgar, and Jan Kleindienst. ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1086)
 4. **A Thorough Examination of the Cnn/Daily Mail Reading Comprehension Task.**  Danqi Chen, Jason Bolton, and Christopher D. Manning. ACL 2016. [paper](https://www.aclweb.org/anthology/P16-1223)
 4. **Long Short-Term Memory-Networks for Machine Reading.** Jianpeng Cheng, Li Dong, and Mirella Lapata. EMNLP 2016. [paper](https://aclweb.org/anthology/D16-1053)
@@ -44,10 +44,10 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haoze Ji
 27. **S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension.** Chuanqi Tan, Furu Wei, Nan Yang, Bowen Du, Weifeng Lv, and  Ming Zhou. AAAI2018. [paper](https://arxiv.org/abs/1706.04815)
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
 29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)
-30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. NAACL2018. [paper](https://arxiv.org/abs/1808.05759)
+30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Minghao Hu, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
 
-### Utilizing Extenal Knolwedge
+### Utilizing External Knowledge
 1.  **Leveraging Knowledge Bases in LSTMs for Improving Machine Reading.** Bishan Yang and Tom Mitchell. ACL 2017. [paper](http://aclweb.org/anthology/P17-1132)
 2. **Learned in Translation: Contextualized Word Vectors.** Bryan McCann, James Bradbury, Caiming Xiong, and Richard Socher. arXiv preprint arXiv:1708.00107 (2017). [paper](https://arxiv.org/pdf/1708.00107)
 3. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge.** Todor Mihaylov and Anette Frank. ACL 2018. [paper](http://aclweb.org/anthology/P18-1076)
